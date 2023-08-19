@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 Clone this repository to your local machine.
 Install the required dependencies using pip install -r requirements.txt.
 Run the application using python app.py.
-Visit the web interface in your browser at http://localhost:5000 and upload a dermatological image for prediction.
+
 Dataset:
 The dataset used for training and testing the models is not included in this repository due to its large size.
 
